@@ -7,11 +7,16 @@
 
 <p></p>
 
-<a href="https://github.com/APeng215/FiltPick">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APeng215&repo=FiltPick&theme=kacho_ga" />
-</a>
-<a href="https://github.com/APeng215/BlockTuner-forge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APeng215&repo=BlockTuner-forge&theme=kacho_ga" />
-</a>
+[//]: # (<a href="https://github.com/APeng215/FiltPick">)
+
+[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APeng215&repo=FiltPick&theme=kacho_ga" />)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/APeng215/BlockTuner-forge">)
+
+[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=APeng215&repo=BlockTuner-forge&theme=kacho_ga" />)
+
+[//]: # (</a>)
 
 
