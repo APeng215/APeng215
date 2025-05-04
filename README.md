@@ -1,8 +1,12 @@
+## Hi!👋 I'm A_Peng
+
 ## About me
 
 - Minecraft modder
 - Full-stack development
 - Undergraduate
+
+---
 
 <a href="https://github.com/APeng215?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=APeng215&theme=material-palenight&rank_icon=github" />
