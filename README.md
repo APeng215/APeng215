@@ -4,7 +4,7 @@
 
 - Minecraft modder
 - Full-stack development
-- Undergraduate
+- Postgraduate student majoring in artificial intelligence.
 
 ---
 
