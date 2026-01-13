@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="219.58"
+          width="219.59"
           height="8"
           fill="#b07219"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="219.58"
+          x="219.59"
           y="0"
-          width="31.41"
+          width="31.4"
           height="8"
           fill="#41b883"
         />
@@ -150,7 +150,7 @@
           data-testid="lang-progress"
           x="250.99"
           y="0"
-          width="17.63"
+          width="17.62"
           height="8"
           fill="#f1e05a"
         />
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="258.62"
+          x="258.61"
           y="0"
           width="14.93"
           height="8"
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="263.55"
+          x="263.54"
           y="0"
           width="14.43"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="267.98"
+          x="267.97"
           y="0"
           width="10.73"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="268.71000000000004"
+          x="268.70000000000005"
           y="0"
           width="10.72"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="269.43000000000006"
+          x="269.4200000000001"
           y="0"
           width="10.58"
           height="8"
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 81.32%
+        Java 81.33%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
